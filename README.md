@@ -3,3 +3,5 @@ Structure–Activity Relationship (SAR) analysis is a fundamental approach in me
 
 ### Google Colab Notebooks
 [1-SAR for Off-Target Receptor](https://colab.research.google.com/github/SafiehLadani/main/blob/SAR-structure-activity-relationship/SAR_for_off_Target_receptor.ipynb)
+
+[[1-SAR for Off-Target Receptor](https://github.com/SafiehLadani/SAR-structure-activity-relationship/blob/main/SAR_for_off_Target_receptor.ipynb)
